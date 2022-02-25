@@ -1,4 +1,4 @@
-= TD 4 - R2.03 Qualité de développement - Maven
+= R2.03 Qualité de développement - TD 4 : Maven
 
 == Téléchargement
 
