@@ -10,6 +10,6 @@
 . Exécuter la commande `mvn clean`
 . Puis, exécuter `mvn package`
 
-== Execution
+== Exécution
 
 . Exécuter la commande `java -jar target/tp_qualite-1.0.jar`
